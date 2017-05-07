@@ -1,0 +1,7 @@
+sudo apt-get install gnome-shell
+
+sudo apt-get install ubuntu-desktop-gnome
+
+Choose LightDM, using Tab  to move;
+
+To use Gnome log out of the system, and click on the Ubuntu icon beside login field and choose Gnome;
