@@ -1,0 +1,6 @@
+umake ide visual-studio-code
+
+"""
+ To remove it, delete the installation folder.
+ The installation folder defaults to ~/tools/web/visual-studio-code
+"""
