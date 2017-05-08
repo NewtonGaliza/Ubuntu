@@ -1,0 +1,9 @@
+"""
+Ubuntu Make
+Ubuntu Make is a command line tool which allows you to download,
+the latest version of popular developer tools on your installation
+"""
+
+sudo add-apt-repository ppa:ubuntu-desktop/ubuntu-make
+sudo apt-get update
+sudo apt-get install ubuntu-make
