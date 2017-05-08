@@ -1,0 +1,3 @@
+sudo apt-get remove --auto-remove sublime-text-installer
+
+sudo apt-get purge --auto-remove sublime-text-installer 
