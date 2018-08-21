@@ -1,0 +1,1 @@
+$ heroku config:add TZ="America/Los_Angeles"
