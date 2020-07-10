@@ -1,0 +1,5 @@
+#install jre
+$ sudo apt install default-jre
+
+#install jdk
+$sudo apt install default-jdk
